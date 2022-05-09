@@ -62,7 +62,7 @@ Credits
 The lesson file structure and browsing layout is inspired by and derived from
 `work <https://github.com/coderefinery/sphinx-lesson>`_ by `CodeRefinery
 <https://coderefinery.org/>`_ licensed under the `MIT license
-<http://opensource.org/licenses/mit-license.html>`_. We have copied and adapted
+<http://opensource.org/licenses/mit-license.html>`__. We have copied and adapted
 most of their license text.
 
 Instructional Material
@@ -106,4 +106,4 @@ Software
 
 Except where otherwise noted, the example programs and other software provided
 with this repository are made available under the `OSI <http://opensource.org/>`_-approved
-`MIT license <https://opensource.org/licenses/mit-license.html>`_.
+`MIT license <https://opensource.org/licenses/mit-license.html>`__.
